@@ -1,6 +1,57 @@
 body {
   text-align: center;
+  font-family: "Scada", sans-serif;
   background-color: #24a19c;
   color: white;
   padding: 5%;
+  padding-bottom: 0;
+  padding-top: 3%;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 4.5rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h1, h2 {
+  margin: 5%;
+}
+
+img {
+  margin-bottom: 6%;
+}
+
+.fa-icons {
+  font-size: 3rem;
+  color: white;
+}
+
+.fa-trophy {
+  color: yellow;
+}
+
+#title-head {
+  margin-bottom: 0;
+}
+
+#refresh-head {
+  margin: 1%;
+}
+
+#win-head {
+  margin-top: 0;
+  font-weight: bold;
+}
+
+#mid-section {
+  padding-bottom: 5%;
+}
+
+#cta, #footer {
+  padding-bottom: 1%;
 }
